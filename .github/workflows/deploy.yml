@@ -1,5 +1,5 @@
 
-name: CI/CD for Next.js
+name: CI/CD for React
 
 on:
   workflow_dispatch:
